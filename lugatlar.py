@@ -26,8 +26,9 @@ car_0 = {'model':'ferrari', 'rang':'qizil'}
 # talaba_0['ism']='abdulloh'
 # 
 # =============================================================================
-talaba_1 = {}
-talaba_1['ism']='qobil rasulov'
-talaba_1['kurs']=3
-talaba_1['yosh'] = 20
-print(talaba_1)
+# talaba_1 = {}
+# talaba_1['ism']='qobil rasulov'
+# talaba_1['kurs']=3
+# talaba_1['yosh'] = 20
+# print(talaba_1)
+ 
